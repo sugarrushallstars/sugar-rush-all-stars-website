@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Youth Novice – Radiant Rebels</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Youth Novice – Radiant Rebels</h1>
+  <p>Pastels & Purple • Fun and confident entry-level squad</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Emma Lee – Flyer</li>
+    <li>Olivia Brown – Base</li>
+    <li>Sophia Davis – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Focused on teamwork and performance basics, Radiant Rebels love building confidence while learning stunts and tumbling.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/youth-novice-1.jpg" alt="Youth Novice Team Photo">
+  <img src="../images/youth-novice-2.jpg" alt="Youth Novice Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
