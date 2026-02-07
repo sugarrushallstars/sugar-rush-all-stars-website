@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junior 2 – Sweet Luxe</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Junior 2 – Sweet Luxe</h1>
+  <p>Pastels & Glam • Elegant junior squad</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Isabella Moore – Flyer</li>
+    <li>Charlotte Hill – Base</li>
+    <li>Amelia Scott – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Sweet Luxe focuses on perfecting stunts, jumps, and choreography while maintaining confidence and poise.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/junior-2-1.jpg" alt="Junior 2 Team Photo">
+  <img src="../images/junior-2-2.jpg" alt="Junior 2 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
