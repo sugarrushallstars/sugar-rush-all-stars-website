@@ -1,9 +1,222 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8" />
   <title>Sugar Rush All Stars</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --pink: #ff2f92;
+      --black: #0b0b0b;
+      --silver: #cfd2d6;
+      --white: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Montserrat', sans-serif;
+      background: var(--white);
+      color: var(--black);
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(135deg, var(--pink), #ff5fb3);
+      color: white;
+      padding: 80px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 3rem;
+      font-weight: 800;
+      letter-spacing: 1px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin-top: 10px;
+    }
+
+    nav {
+      background: var(--black);
+      display: flex;
+      justify-content: center;
+      gap: 30px;
+      padding: 15px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.95rem;
+    }
+
+    nav a:hover {
+      color: var(--pink);
+    }
+
+    section {
+      padding: 70px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    h2 {
+      font-size: 2.2rem;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 25px;
+    }
+
+    .card {
+      border: 1px solid var(--silver);
+      padding: 25px;
+      border-radius: 12px;
+      text-align: center;
+    }
+
+    .card h3 {
+      color: var(--pink);
+      margin-bottom: 10px;
+    }
+
+    .gallery img {
+      width: 100%;
+      border-radius: 12px;
+    }
+
+    footer {
+      background: var(--black);
+      color: white;
+      text-align: center;
+      padding: 30px 15px;
+      font-size: 0.9rem;
+    }
+
+    form {
+      max-width: 500px;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    input, textarea {
+      padding: 12px;
+      font-family: inherit;
+      border-radius: 6px;
+      border: 1px solid var(--silver);
+    }
+
+    button {
+      background: var(--pink);
+      color: white;
+      border: none;
+      padding: 14px;
+      font-weight: 700;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      opacity: 0.9;
+    }
+  </style>
 </head>
+
 <body>
+
+<header>
   <h1>Sugar Rush All Stars</h1>
-  <p>Official Cheer Gym Website</p>
+  <p>Confidence. Power. Performance.</p>
+</header>
+
+<nav>
+  <a href="#teams">Teams</a>
+  <a href="#gallery">Uniforms</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="teams">
+  <h2>Our Teams</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Tiny Sparkles</h3>
+      <p>Level 1 · Youth</p>
+      <p>Colors: Hot Pink & Silver</p>
+      <p><a href="team-tinysparkles.html">View Team →</a></p>
+    </div>
+
+    <div class="card">
+      <h3>Junior Rush</h3>
+      <p>Level 2 · Junior</p>
+      <p>Colors: Black & Pink</p>
+      <p><a href="team-juniorrush.html">View Team →</a></p>
+    </div>
+
+    <div class="card">
+      <h3>Senior Supreme</h3>
+      <p>Level 3 · Senior</p>
+      <p>Colors: Pink, Black & Silver</p>
+      <p><a href="team-seniorsupreme.html">View Team →</a></p>
+    </div>
+  </div>
+</section>
+
+<section id="gallery">
+  <h2>Uniform Gallery</h2>
+  <div class="grid gallery">
+    <img src="uniform1.jpg" alt="Sugar Rush Uniform">
+    <img src="uniform2.jpg" alt="Competition Uniform">
+    <img src="uniform3.jpg" alt="Practice Wear">
+  </div>
+</section>
+
+<section id="about">
+  <h2>About Sugar Rush</h2>
+  <p style="max-width:800px; margin:auto; text-align:center;">
+    Sugar Rush All Stars is a competitive cheer gym built on discipline,
+    confidence, and positivity. We focus on athlete growth, clean technique,
+    and performance excellence — all while keeping the energy fun and empowering.
+  </p>
+</section>
+
+<section id="contact">
+  <h2>Contact Us</h2>
+  <form>
+    <input type="text" placeholder="Athlete Name" required>
+    <input type="email" placeholder="Parent Email" required>
+    <textarea placeholder="Tell us what you're interested in"></textarea>
+    <button type="submit">Send Interest</button>
+  </form>
+
+  <p style="text-align:center; margin-top:20px;">
+    Email: sugarrushallstars@gmail.com<br>
+    Location: Your City, State
+  </p>
+</section>
+
+<footer>
+  © Sugar Rush All Stars Cheer Gym
+</footer>
+
 </body>
+</html>
+
