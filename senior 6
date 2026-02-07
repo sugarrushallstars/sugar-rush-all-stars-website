@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Senior 6 – Sugar Crash</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Senior 6 – Sugar Crash</h1>
+  <p>Hot Pink & Black • Top senior elite powerhouse squad</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Olivia Brooks – Flyer</li>
+    <li>Madison Clark – Base</li>
+    <li>Isabella Hughes – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Sugar Crash is our premier senior squad, focusing on elite-level stunts, tumbling, and flawless performances.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/senior-6-1.jpg" alt="Senior 6 Team Photo">
+  <img src="../images/senior-6-2.jpg" alt="Senior 6 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
