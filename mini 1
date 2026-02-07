@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini 1 – Sweet Tarts</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Mini 1 – Sweet Tarts</h1>
+  <p>Pastel Hearts • Lots of cute mini hearts</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Alice White – Flyer</li>
+    <li>Clara Green – Base</li>
+    <li>Lily Black – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Sweet Tarts focus on basic tumbling and performance skills, emphasizing fun and confidence for our youngest athletes.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/mini-1-1.jpg" alt="Mini 1 Team Photo">
+  <img src="../images/mini-1-2.jpg" alt="Mini 1 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
