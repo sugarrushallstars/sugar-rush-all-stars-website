@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Youth 3 – Cherry Twist</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Youth 3 – Cherry Twist</h1>
+  <p>Red & White • Energetic and bold youth squad</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Emily Rivera – Flyer</li>
+    <li>Samantha Baker – Base</li>
+    <li>Abigail Rivera – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Cherry Twist performs fun, high-energy routines with a focus on teamwork, stunts, and jumps.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/youth-3-1.jpg" alt="Youth 3 Team Photo">
+  <img src="../images/youth-3-2.jpg" alt="Youth 3 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
