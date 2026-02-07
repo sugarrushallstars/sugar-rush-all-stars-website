@@ -1,0 +1,710 @@
+/teams/
+   mini-prep.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini Prep – Tiny Tease</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Mini Prep – Tiny Tease</h1>
+  <p>Hot Pink & Pastels • Cute and confident starter squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Emma – Flyer</li>
+    <li>Olivia – Base</li>
+    <li>Ava – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Tiny Tease is a starter squad focused on building confidence, basic stunts, and fun choreography for our youngest athletes.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/mini-prep-1.jpg" alt="Mini Prep Team Photo">
+  <img src="../images/mini-prep-2.jpg" alt="Mini Prep Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   youth-novice.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Youth Novice – Radiant Rebels</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Youth Novice – Radiant Rebels</h1>
+  <p>Pastels & Purple • Fun and energetic beginner squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Isabella – Flyer</li>
+    <li>Charlotte – Base</li>
+    <li>Amelia – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Radiant Rebels focus on learning foundational stunts and building performance confidence in a fun, supportive environment.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/youth-novice-1.jpg" alt="Youth Novice Team Photo">
+  <img src="../images/youth-novice-2.jpg" alt="Youth Novice Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   mini-1.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini 1 – Sweet Tarts</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Mini 1 – Sweet Tarts</h1>
+  <p>Pastel Hearts • Cute and energetic beginner squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Lily – Flyer</li>
+    <li>Chloe – Base</li>
+    <li>Sophia – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Sweet Tarts is a mini level 1 team with a focus on fun, cute choreography, basic stunts, and heart-themed routines.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/mini-1-1.jpg" alt="Mini 1 Team Photo">
+  <img src="../images/mini-1-2.jpg" alt="Mini 1 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   youth-1.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Youth 1 – Honey Bees</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Youth 1 – Honey Bees</h1>
+  <p>Black & Yellow • Busy, buzzing beginner squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Madison – Flyer</li>
+    <li>Ella – Base</li>
+    <li>Avery – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Honey Bees focus on precise stunts, fun routines, and teamwork, with a sweet “bee” theme including bows with bees!</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/youth-1-1.jpg" alt="Youth 1 Team Photo">
+  <img src="../images/youth-1-2.jpg" alt="Youth 1 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   mini-2.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini 2 – Pop Rocks</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Mini 2 – Pop Rocks</h1>
+  <p>Colorful & Fun • Energetic mini squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Grace – Flyer</li>
+    <li>Samantha – Base</li>
+    <li>Hannah – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Pop Rocks combines fun, colorful choreography with beginner stunting skills, focusing on teamwork and confidence.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/mini-2-1.jpg" alt="Mini 2 Team Photo">
+  <img src="../images/mini-2-2.jpg" alt="Mini 2 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   junior-2.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junior 2 – Sweet Luxe</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Junior 2 – Sweet Luxe</h1>
+  <p>Pastels & Glam • Stylish and dynamic squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Victoria – Flyer</li>
+    <li>Abigail – Base</li>
+    <li>Emily – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Sweet Luxe emphasizes elegant stunts, synchronized routines, and building strong foundational skills at Level 2.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/junior-2-1.jpg" alt="Junior 2 Team Photo">
+  <img src="../images/junior-2-2.jpg" alt="Junior 2 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   youth-3.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Youth 3 – Cherry Twist</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Youth 3 – Cherry Twist</h1>
+  <p>Red & White • Spirited and energetic squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Natalie – Flyer</li>
+    <li>Grace – Base</li>
+    <li>Sophia – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Cherry Twist is a Level 3 team that brings energy, precision, and fun choreography to every routine.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/youth-3-1.jpg" alt="Youth 3 Team Photo">
+  <img src="../images/youth-3-2.jpg" alt="Youth 3 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   junior-3.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junior 3 – Sugar Shock</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Junior 3 – Sugar Shock</h1>
+  <p>Pink & Black • Powerful and high-energy squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Alexis – Flyer</li>
+    <li>Hailey – Base</li>
+    <li>Madeline – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Sugar Shock is a Level 3 team with high-energy routines, precision stunts, and a bold performance style.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/junior-3-1.jpg" alt="Junior 3 Team Photo">
+  <img src="../images/junior-3-2.jpg" alt="Junior 3 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   junior-4.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junior 4 – Peach Ring</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Junior 4 – Peach Ring</h1>
+  <p>Orange & Pink • Fun, bold, and advanced squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Jasmine – Flyer</li>
+    <li>Lauren – Base</li>
+    <li>Kaitlyn – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Peach Ring is a Level 4 team focused on powerful stunts, precise tumbling, and strong performance skills.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/junior-4-1.jpg" alt="Junior 4 Team Photo">
+  <img src="../images/junior-4-2.jpg" alt="Junior 4 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   senior-4.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Senior 4 – Crush</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Senior 4 – Crush</h1>
+  <p>Black & Chrome • Elite and competitive squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Sophia – Flyer</li>
+    <li>Mia – Base</li>
+    <li>Emma – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Crush is a Level 4 Senior team with advanced stunts, strong tumbling, and high-energy competitive routines.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/senior-4-1.jpg" alt="Senior 4 Team Photo">
+  <img src="../images/senior-4-2.jpg" alt="Senior 4 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   junior-5.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junior 5 – Sweet Venom</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Junior 5 – Sweet Venom</h1>
+  <p>Red & Yellow • Fierce and energetic</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Hailey – Flyer</li>
+    <li>Kayla – Base</li>
+    <li>Brooke – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Sweet Venom is a Level 5 Junior squad, focusing on complex stunts, precision, and high-impact performance skills.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/junior-5-1.jpg" alt="Junior 5 Team Photo">
+  <img src="../images/junior-5-2.jpg" alt="Junior 5 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+   senior-5.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Senior 5 – Sugar Shock</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Senior 5 – Sugar Shock</h1>
+  <p>Pink & Silver • Elite high-energy squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Olivia – Flyer</li>
+    <li>Madeline – Base</li>
+    <li>Avery – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Sugar Shock Senior Level 5 is all about high-level stunts, advanced tumbling, and competitive excellence.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/senior-5-1.jpg" alt="Senior 5 Team Photo">
+  <img src="../images/senior-5-2.jpg" alt="Senior 5 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html> 
+   senior-6.html<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Senior 6 – Sugar Crash</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Senior 6 – Sugar Crash</h1>
+  <p>Hot Pink & Black • Top-level competitive squad</p>
+</header>
+
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Emma – Flyer</li>
+    <li>Sophia – Base</li>
+    <li>Madison – Backspot</li>
+  </ul>
+</section>
+
+<section>
+  <h2>About the Team</h2>
+  <p>Sugar Crash is the pinnacle of elite performance, Level 6 stunts, and precision choreography.</p>
+</section>
+
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/senior-6-1.jpg" alt="Senior 6 Team Photo">
+  <img src="../images/senior-6-2.jpg" alt="Senior 6 Team Photo">
+</section>
+
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sign Up for Classes</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <h1>Tumbling, Stunt & Jump Classes</h1>
+  <p>Sign up to train with Sugar Rush All Stars!</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+</nav>
+
+<section>
+  <h2 class="section-title">Sign Up Form</h2>
+  <form>
+    <label for="name">Full Name:</label>
+    <input type="text" id="name" name="name" placeholder="Your Name" required>
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" placeholder="Your Email" required>
+
+    <label for="class-type">Class Type:</label>
+    <select id="class-type" name="class-type">
+      <option value="tumbling">Tumbling</option>
+      <option value="stunt">Stunt</option>
+      <option value="jump">Jump</option>
+    </select>
+
+    <button type="submit">Sign Up</button>
+  </form>
+</section>
+
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+
+</body>
+</html>
