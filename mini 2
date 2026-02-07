@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini 2 – Pop Rocks</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Mini 2 – Pop Rocks</h1>
+  <p>Colorful & Fun • High-energy mini squad</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Emma Parker – Flyer</li>
+    <li>Sophia Allen – Base</li>
+    <li>Chloe Carter – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Pop Rocks love to perform high-energy routines full of jumps, stunts, and fun choreography.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/mini-2-1.jpg" alt="Mini 2 Team Photo">
+  <img src="../images/mini-2-2.jpg" alt="Mini 2 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
