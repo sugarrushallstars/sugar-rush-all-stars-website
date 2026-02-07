@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junior 5 – Sweet Venom</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Junior 5 – Sweet Venom</h1>
+  <p>Red & Yellow • Fierce and precise junior squad</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Mia Collins – Flyer</li>
+    <li>Ava Ward – Base</li>
+    <li>Isabella Gray – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Sweet Venom performs advanced stunts, jumps, and routines with a bold, sharp style.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/junior-5-1.jpg" alt="Junior 5 Team Photo">
+  <img src="../images/junior-5-2.jpg" alt="Junior 5 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
