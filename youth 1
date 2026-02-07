@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Youth 1 – Honey Bees</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Youth 1 – Honey Bees</h1>
+  <p>Black & Yellow • Bee on the bow</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Hannah King – Flyer</li>
+    <li>Grace Turner – Base</li>
+    <li>Mia Young – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Honey Bees love learning stunts, jumps, and choreography while building confidence and teamwork skills.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/youth-1-1.jpg" alt="Youth 1 Team Photo">
+  <img src="../images/youth-1-2.jpg" alt="Youth 1 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
