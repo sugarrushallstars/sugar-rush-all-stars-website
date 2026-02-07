@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Senior 5 – Sugar Shock</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Senior 5 – Sugar Shock</h1>
+  <p>Pink & Silver • Elite senior squad with power and precision</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Emma Simmons – Flyer</li>
+    <li>Charlotte Lee – Base</li>
+    <li>Amelia Foster – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Sugar Shock performs highly advanced stunts and tumbling with maximum precision and energy.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/senior-5-1.jpg" alt="Senior 5 Team Photo">
+  <img src="../images/senior-5-2.jpg" alt="Senior 5 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
