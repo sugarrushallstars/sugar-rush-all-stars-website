@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mini Prep – Tiny Tease</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Mini Prep – Tiny Tease</h1>
+  <p>Hot Pink & Pastels • Cute and confident starter squad</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Jane Doe – Flyer</li>
+    <li>Mary Smith – Base</li>
+    <li>Lucy Johnson – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>This squad is designed for cute and confident starters! Focus on basic tumbling, jumps, and team choreography.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/mini-prep-1.jpg" alt="Mini Prep Team Photo">
+  <img src="../images/mini-prep-2.jpg" alt="Mini Prep Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
