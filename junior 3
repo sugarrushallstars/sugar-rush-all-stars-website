@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Junior 3 – Sugar Shock</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<header>
+  <h1>Junior 3 – Sugar Shock</h1>
+  <p>Pink & Black • High-energy junior elite squad</p>
+</header>
+<nav>
+  <a href="../index.html">Home</a>
+  <a href="../classes.html">Classes</a>
+</nav>
+<section>
+  <h2>Team Roster</h2>
+  <ul>
+    <li>Olivia Reed – Flyer</li>
+    <li>Madison King – Base</li>
+    <li>Abigail Wood – Backspot</li>
+  </ul>
+</section>
+<section>
+  <h2>About the Team</h2>
+  <p>Sugar Shock focuses on advanced stunts, jumps, and sharp choreography with precision and power.</p>
+</section>
+<section>
+  <h2>Team Photos</h2>
+  <img src="../images/junior-3-1.jpg" alt="Junior 3 Team Photo">
+  <img src="../images/junior-3-2.jpg" alt="Junior 3 Team Photo">
+</section>
+<section>
+  <h2>Sign Up for Classes</h2>
+  <p>Interested in Tumbling, Stunts, or Jumps? <a href="../classes.html">Sign Up Here</a></p>
+</section>
+<footer>
+  © 2026 Sugar Rush All Stars · All Rights Reserved
+</footer>
+</body>
+</html>
